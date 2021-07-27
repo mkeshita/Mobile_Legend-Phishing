@@ -9,7 +9,7 @@ printf "\e[1;31m[\e[0m\e[1;92m02\e[0m\e[1;31m] \e[0m\e[1;37;41m Mobile Legend Ev
 echo
 printf "\e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;37;44m\e[0m"     
 echo
-printf "\e[1;31m[\e[0m\e[1;92m03\e[0m\e[1;31m] \e[0m\e[1;37;44m Mobile Legend Event \e[0m   \e[1;95m[\e[0m\e[1;33mBLUE\e[0m\e[1;95m]   "
+printf "\e[1;31m[\e[0m\e[1;92m03\e[0m\e[1;31m] \e[0m\e[1;37;44m Mobile Legend Event \e[0m  \e[1;95m[\e[0m\e[1;33mBLUE\e[0m\e[1;95m]   "
 echo
 printf "\e[1;31m\e[0m\e[1;92m\e[0m\e[1;31m \e[0m\e[1;37;44m\e[0m" 
 echo
