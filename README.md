@@ -22,7 +22,7 @@
 
 ## ABOUT TOOL :
 
-MOBILE_LEGEND-PHISING IS A PHISING TOOL WICH IS USED TO PHISH A FREEFIRE ACCOUNT OF YOUR VICTIM. This tool works on both rooted Android device and Non-rooted Android device.
+MOBILE_LEGEND-PHISING IS A PHISING TOOL WICH IS USED TO PHISH A MOBILE LEGEND ACCOUNT OF YOUR VICTIM. This tool works on both rooted Android device and Non-rooted Android device.
 
 ### AVAILABLE ON :
 
