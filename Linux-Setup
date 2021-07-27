@@ -27,7 +27,7 @@ echo""
 
 
 
-if [[ $option == *'OHSMPRO42'* ]]; then
+if [[ $option == *'BXPSD0AC7CY0581K'* ]]; then
 clear
 echo ""
 echo ""
