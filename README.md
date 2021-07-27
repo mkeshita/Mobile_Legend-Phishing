@@ -15,7 +15,7 @@
 
 <p align="center">
 
-![unnamed (2)](https://1.bp.blogspot.com/-1wb0/500033300005_273526.jpg)
+![unnamed (2)](https://github.com/OnlineHacKing/Mobile_Legend-Phishing/raw/main/img/logo1.jpg)
 
 </p>
 
@@ -128,8 +128,8 @@ chmod +x *
 </p>
 <br>
 <p align="center">
-<img width="41%" src="https://github.com/OnlineHacKing/FreeFire-Phishing/raw/main/img/OnlineHacking-ff3.jpg"/>
-<img width="40%" src="https://github.com/OnlineHacKing/FreeFire-Phishing/raw/main/img/OnlineHacking-ff1.jpg"/>
+<img width="44%" src="https://github.com/OnlineHacKing/Mobile_Legend-Phishing/raw/main/img/logo3.jpg"/>
+<img width="40%" src="https://github.com/OnlineHacKing/Mobile_Legend-Phishing/raw/main/img/logo2.jpg"/>
 </p>
 
 
